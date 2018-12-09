@@ -1,8 +1,8 @@
 As of Dec 9, 2018
 ---------------------------------
-MIT algorithm lecture
-Andrew Ng Neural Network lecture
-Japanese daily video
-빛의 물리학 youtube video
+algorithm lecture
+neural network lecture
+Japanese daily
+빛의 물리학 
 누워서 읽는 알고리즘
 ---------------------------------
